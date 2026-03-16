@@ -38,5 +38,3 @@ To run this project, you need the following dependencies installed:
 
 4. python crew.py
 
-
-# Blog_Generation
